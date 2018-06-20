@@ -20,6 +20,15 @@ import javax.crypto.EncryptedPrivateKeyInfo;
 import javax.swing.KeyStroke;
 import javax.swing.JComboBox.KeySelectionManager;
 
+
+/**
+
+@author: Bernhard Brenner, SBA Research <bbrenner@sba-research.org>
+Date: May 2018
+
+*/
+
+
 public class TestJKSCrack {
 
 	private Logger log = Logger.getInstance();

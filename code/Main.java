@@ -13,6 +13,14 @@ import java.util.Base64;
 
 import javax.security.cert.X509Certificate;
 
+/**
+
+@author: Bernhard Brenner, SBA Research <bbrenner@sba-research.org>
+Date: May 2018
+
+*/
+
+
 public class Main {
 
 	public static void main(String[] args) {

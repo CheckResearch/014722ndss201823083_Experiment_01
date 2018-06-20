@@ -3,6 +3,14 @@ import java.text.SimpleDateFormat;
 import java.util.Calendar;
 import java.util.Date;
 
+/**
+
+@author: Bernhard Brenner, SBA Research <bbrenner@sba-research.org>
+Date: May 2018
+
+*/
+
+
 public class Logger {
 
 	/**
